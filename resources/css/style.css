@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(187, 142, 46);
+    font-size: 1em;
+}
+
+.contentStyle {
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 50%;
+    height: 100%;
+    background: rgb(50, 50, 50);
+
+}
+
+.slideshow {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 50%;
+    height: 500px;
+    background: rgba(248, 248, 248, .4);
+    text-align: center;
+    font-size: 2em;
+}
+
+.slide1 {
+    background: rgba(255, 0, 0, .5);
+    margin: 10px;
+    margin-top: 155px;
+    padding: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.slide2 {
+    background: rgba(0, 255, 0, .5);
+    margin: 10px;
+    margin-top: 155px;
+    padding: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.slide3 {
+    background: rgba(0, 0, 255, .5);
+    margin: 10px;
+    margin-top: 155px;
+    padding: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
